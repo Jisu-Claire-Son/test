@@ -27,5 +27,10 @@ public class Problem01 {
 			System.out.println();	//	개행
 		}
 	}
+	
+	private static void Problem03() {
+		Scanner scanner = new Scanner(System.in);
+		
+	}
 
 }
