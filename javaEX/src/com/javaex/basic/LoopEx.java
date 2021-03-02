@@ -23,7 +23,7 @@ public class LoopEx {
 //			System.out.println(Math.random());
 			System.out.println((int)(Math.random() * 45) + 1);
 		}
-	}
+	} //	이것이 자바다 133p까지
 	
 	private static void nestedForStar() {
 		int rowCount = 5;
