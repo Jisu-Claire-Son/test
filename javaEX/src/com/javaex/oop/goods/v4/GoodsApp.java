@@ -1,4 +1,4 @@
-package com.javaex.oop.goods.v3;
+package com.javaex.oop.goods.v4;
 
 public class GoodsApp {
 
