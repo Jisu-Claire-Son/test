@@ -3,9 +3,9 @@ package com.javaex.basic.reftypes;
 public class ArrayEx {
 
 	public static void main(String[] args) {
-//		arrayBasic();
-//		twoDimens();
-//		arrayCopyFor();
+		arrayBasic();
+		twoDimens();
+		arrayCopyFor();
 		arrayCopySystem();
 	}
 	
