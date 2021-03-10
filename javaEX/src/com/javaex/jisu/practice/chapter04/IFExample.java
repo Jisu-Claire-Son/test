@@ -1,6 +1,6 @@
-package com.javaex.jisu.practice;
+package com.javaex.jisu.practice.chapter04;
 
-public class IFExample {
+public class IFExample {	//if문
 
 	public static void main(String[] args) {
 		int score = 93;
@@ -12,7 +12,7 @@ public class IFExample {
 		
 		if(score < 90)
 			System.out.println("점수가 90보다 작습니다.");
-			System.out.println("등급은 B입니다.");
+			System.out.println("등급은 B입니다.");	//	if문과는 상관없는 실행문
 
 	}
 
